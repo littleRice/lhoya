@@ -1,0 +1,1 @@
+import './less/lhoya-h.less';
